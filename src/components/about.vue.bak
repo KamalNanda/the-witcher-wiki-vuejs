@@ -1,0 +1,30 @@
+<template>
+	<div class="about-flex">
+		<div class="about-flex-left">Hwy</div>
+		<div class="about-flex-right"></div>
+	</div>
+</template>
+<script>
+export default {
+  name: 'About'
+}
+</script>
+<style>
+	.about-flex{
+		display: flex;
+		width:80%;
+		margin-left: 10%;
+		margin-top: 60px;
+		height: 400px;
+	}
+	.about-flex-left{
+		width:50%;
+		height:400px;
+		background-color: pink;
+	}
+	.about-flex-right{
+		width: 50%;
+		height:400px;
+		background-color: tomato;
+	}
+</style>

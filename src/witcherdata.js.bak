@@ -1,0 +1,45 @@
+const Wdata = [
+    {
+        id: 0,
+        name: "Geralt of Rivia",
+        role: "Hero",
+        imgLink: "https://lh3.googleusercontent.com/DFqlwYiYzBimV8YntQQagn5gQqjkJ0GZ7T7ayFnc3gkqEX91PQsS_Lw0xsG4WqnZXv4_m0RZcKpqpeVDtw5iFIrcq_ZcMJ8tdmD6eFWjwi23_dLx0cNvUlNvXDfVMeW5FKgAqc8feSRdCdduDDIoaqklHnOd6NKYmiD7UCUer4YwUih-P_xRPaxPnn0GvaqkQMdQTw5K0zdx06qXsQ_wMgsQGZ6sczoOfqOsdyX3EhSAWngfpQQbxSw1zLkpRXe2R-VtmsLPHt0N1Y40ctfpeRdAmhQD0dvcWFEFxxIJiWky2dVytIk_Y5Jhj7B_MK_iK8AgggzZ5oaguihUz7AVw9kgAzyXerUHZv7iCevAQngRuAnnwVRU5Xfmv769VRtwDI9fKiY8cw5rItmI3YsZ-XvLREvYCSIWdqNbDp9iZa7qWxAk4rtXIouFP6Xu1Araq2LhWzzw4e3XfJDUSpUiR2lsSXx1JNviwN6Jo_r3e_4rdfYKN_RJ5x9xVJZCyn4h3uhBK4CItpw6uRBZQdZxYHaG8bv3yFO8PVCp6Yfvf8OvOgzNxzj8RvmrLgJDUbjFI8oab1z7hLv8z2fmiftsfpQvRkfsjsAKlHzjLi9eHIoGNuy5cUmrEFtQqrmpgjb2AgwtJXrpHChUcY67uDvWVOIRlP0qrcq803mkKtBOAUICTbqyPPNbHCDGQJnQ=s600-no"
+    },
+    {
+        id: 1,
+        name: "Cirilia",
+        role: "Hero ki step daughter",
+        imgLink: "https://lh3.googleusercontent.com/PwyLp88FKOkbhAIiDftTfheq6t6oURLHaqkrvqTKJ1JwLbJYKx04nPPFx-fDPigDKV5JWMRAQXnxzy5Jgebyee1Cs8k1FNeLXG4nmiZf1w4ATMOIVchXjB2CsF_p4QaKC-C9tNivDim79AO-G8No0J88-YIyF1GAvh9hWrmEciA_Jakh6nVHb5Y8vIFczfiiO2L77BL1hYqxzyhxJsaaYruERNQ8PNpRz-rHJOJsGZuq61js7j9DkggvAbralm2i2DhhSVrPZgPnQC8_gFtll0U5QfmkFiNEuF3egXhMxNPJixSY49aSVswr9dkwFlGeVZjtjnGN_UdKsBrYnoOjaAPnDgVtmfRJ69KLXzqISJYV61qcpMTCZc-oOHa5klq2ocyTVPqMYpokmY2ecLhJIFPAytD53rCkHBTZQXbq9V494j0rPvc87D640ODp2nTUDBNdabqfFx_mtuarcYJlgN0mL2au-V_0rVT3FkuubvlkgkOGUHF-sYTPCRjz_kGm7fTjTgOUrZWP76YAFFDUFpr-QmBI1oevXOBKYi80iY49JTTIGnIhduawwM76k9pzLLUK5eLt5G2Ls3vaQ5597rpPCeeEqb4kagjHgpZl-0vbv-yaHIQ1ktyKVzayW7e9rPRXmlb1ZsEumv81k7XNjidJ4Jnob2zj58C-odLRhMdyRu07H6bp44rjG44H=s600-no"
+    },
+    {
+        id: 2,
+        name: "Triss",
+        role: "Hero ki ex",
+        imgLink: "https://lh3.googleusercontent.com/km22qIE37mBm-S9usDF9PylKUCQeqU7xafBGGDqmhhutYwDM6KS28_Q4ZDc1qItywwIYb1ZImZdJ4S6E1a3KMU-z77VUertZLHqjPDyKOdT1sK5D6204Ss57XI8cGoxSPaQfS3-e3uJDf5tjfMkIauE1g9ce-xQGHHt5LMziknDXtmvO0JYmGHa0SmEC29BogL-EEGTd-6gBxMaRwEMTzbeMDo0iVyVpDDdGPMGKicAu13XKElvCaCvCvdKUMJbB6mVDO0-evNNq6RWPlabnxE4c2lVJs1J4Xb4Zxtzzq7aRJgSjNzRUxefQgRrTnrFWgAOKJ_tBQ6TL8Jz757l2rGmtFhNTUtzuFT-8VzpKFw4NggZaVo1aF0VOcVDjjrJq5sRjRFeaZVtst0x4Z8Vkc8B8cPu1zju7ry1yNHjvCVsLn02eOeitLjVZwA-fq7915vsVwEO6NlpiFUTHPYuyYHZ8-EDfvSjMMAtLQ9xCml1v_nXqCSoUwfUQbtdDoAp_OQEEB6LTPTUCw46lBHOUQvQHqNwmB3EGp9LqE-LXxj9vkKH8A79HNxGxYftoyUpFDB1P6O2dwpGHiXa7jkiunIlUg7H3u9lCPEWy_DV2j-VI6PlUF767BRPcvyhycS8G3y73SUNKGgG4KJmeFEFl2AO8KokuJwWmSDAbx9wXa8K6GJNmIuJIaHUXlGnK=s600-no"
+    },
+    {
+        id: 3,
+        name: "Yennefer",
+        role: "Hero ki current",
+        imgLink: "https://lh3.googleusercontent.com/yB3eINISNXxruscCM3mItsBVM8Cwv-mSY5sdAkxz_KiXDbi8HI77f6xIRdSqYsEjf8O5bQUZwOiFljvDR6Haj242h3iSDeLWgQooMzs0p7GQEXT3kXZkOTI7ZbtLwKon-I-616hWhV1vrurRw1jQBPsukN2qLoVwCzda_pxiV3Qk7lwvEtW7k3k83dy_BgW-5Z81zHEAhtht1h9Cjr-0zHHYgrmI0GVvPuCFLPL8u_IA3-q-Z4fHhaynFCZQXcpEXURGDVBTovzl6VDxuLQ_2Pn-FVy1dwaQu6dsaUDgzRar9GxKcGp7FCIsVbL3a4xhqOEfl5qlKT78De3Bhw4Bc39SNqu6xDQhsHuKq_AbJxRad5r2Wh7YGO0h1mxT2Ua23siX7Y3jLuHw4dcXBsQHXFfzZOEDFRuf1vQLhRYmUvJc3gn4hq6cY3jMvs0UBp7NjYsj3-dSX_fgZEJ5wJTOehapLOSg-roq0B9qwqjmtbdxPuGGEtNmDQvUpzQyYfS3IErs-9BJmbTl4nKl0k8RI1ps2a6mS_FEsJVr5P5rru3t-gI_j-ZnVySef2nptUddcx2knfZXWXxCuMIS_OwfKcDypgPnMTAUXYKHQHF8Ub2CKEgGdWluGM-BwZ0brjD3a77DIG52sp9AxHDr_RoQPUdLlKTDJSJJfdfHmGpzWb77nhNxvJV8DTOygFAY=s600-no"
+    },  
+    {
+        id: 4,
+        name: "Dandallion",
+        role: "Hero ka bff",
+        imgLink: "https://lh3.googleusercontent.com/gg3KGodAT4QopP7Lq9ia1jW9_cMSPeG-gnBD709tkqjqjY5ehMyRp0bb8DGdatlEMKF4BTPFqsd_g13eziMg4CzAtrFjZ12pE0iUYSofAjmNKC3ySKfXpYmc2_ETnWaGnc3lX47aSyxr8I1L7qkxTXTXnWv1XXvo2jhHYylm7qtim1N7NVbxn30droVwzsSo8dUTM37YzoE4VgTMmVD4AWwl56xjmU3Lvky32TgohfsU40iQGa_O32J8mNzUoe5eRTVmO5E_vDtmLyjBBTyCgV2iu9nkzUW8Unq5htux_Ik2LBknBn9EDnUDJsCF9zhtnCG1GKBUy7zX743QcOynlKdukUmMbbq3FE_uOGKc6OxJ8QGe3NCLhZOTZEa6V7yOUgpNO69hh09CVN7lT7aTeYoVInxCanCkT0fBF-YOuo1z2tWzKqfmUIpnCDd3QqsMXGYevZ5367jFxpoe8rm_40LmDiz9o5zsEtLirNmcdow9LNkAdsFmIJXDQIJ-NEN88v0cR_WQgG4rQF9iCzZYnyAqCyIxKfpXs0I4_QyU6SqrSimz7Y_xz7MORHtN6L_HIML29S_hmURh_4EIsLak1Oj2FNlUq2lDh0nEev1uXs3j0ksC_rg-qytixSC11LD0yRf8mFhiuuXhdbJjk1Q2jpVVHAommWR09e59vNQAdXzFGkgfMUPd9eoIeOgp=s600-no "
+    },
+    {
+        id: 5,
+        name: "Wild Hunt",
+        role: "Hero ka Villain",
+        imgLink: "https://lh3.googleusercontent.com/sPsD4CyevsqPTm4_8CURbGdYEfDmBwjCAMykJcDl2iByTKiJVKcokLjx-HC60-6jDhDGgwC0DNRfBIp3uM3eXlbGS2lkKw2GTz4jgHtQqvK9EnbbMqTlbvhQe9jmZiLyA6djjb1bmhr1Rxfn0PxphCtHURRCNprVZruYvtPvsDACkmqzt2TbpsKZQIqVXQEClZOFgQ3cdlZt4NJUXxs3PAWmqpAQ7Y6mTwPVyB4G1s_Eqb-HkMWZUytkLHpAiJbot3xspTxXtgzgFm3q6_dAToTPqcjZGUdETn2gjQ9illrdaWW2jDDUytKx4Xx043d5QBkvRuh6fbzGC5jlN_oyqLHCXtjQtvMki0lf7yNfmAsCIh-fdYy_t2uYSuox5s1E2Z7FODu7KgzqFfoKOweVydmlkQwuY9VH053TB1HaVz_s377HVdfm_Pq5eiW4dQvnAqNYdcO8MkcuDT7pfILcWxlRu149q5rSKJ7HU_6nlJFVILYZSvIJGJcB8v4mYghvet7N0XO_ntIanrVSqncV8hDjvsPwaXbsEvR0njZpWQ4Xyob9-FFkuPinJg3fWfN16hDFJ5NkLf5AEeAODpKBYVzUAYMrITJD37N4rk__JT2fDiaTVPjZeuRS8lp73wNV-h4wDYaPbT5yi0KDBtbPsreTfTglPixK_gCzNnoAd4hUUNZyI5AGR9BQaBUI=s600-no"
+    },
+    {
+        id: 6,
+        name: "Vesemir",
+        role: "Hero ka Teacher",
+        imgLink: "https://lh3.googleusercontent.com/mivMrtkt8o7HICRFnDD_h5unIzY5QhuuFBmAzRNUHvoCNFqgjzmNS3nrTXm0P0Dc3MpsbziiWLN5fg_ObWeFFFll1nt8d2wn_PE8-Wty7ixNU_FH0w8CJMWALB3rYTkTJkq-twEJLImQGuGyRoxCBnhCI-7jzZ-5aco2d01oBRLSXcsyRvlccvN4XxZfZgxIacbolaQ0GMDIdQ9rZgKoetBr6tHXDM2jwpWVSFFjfFqhQtzJzwOy-sDFLHjZNTQdiXyqBD225h_KkR1iX3Ti-HKjgpNa5eMT6cqLax5k6OAWzjFv077lOd3BZqJ-NOemm2AomIbD-4uiQnqMbgiRJRIVRhw2fZy7ryxPP4HbRXF6-pCqhUFwJV-zK4HDAhti8ihu3GyzqVM11Hho5dGwtLCoRHrn9Da5sjmvYlfLcTk3bU_gLqmIIn36rXz0S_sYWn1tXC1NXWvP0zGdWKrI79jPqCCyPs0KkHCKeC-nkG7QZU9H8cQWZ2WfOck2xTxqwLFJdJWQFMl3-T2HpBNsHNFRdToaY6AQCRJXDYH4W2Gd2xnF7sLm3oLAIGN_wTw1LOaXM_uEvKhYLvVw-TB_FODSvgtEuEqa61Dqf0artSVkGUOs_fQLTF5fhz6bRnbV2vuPkctMb2iuZEDBUBo-4VLgEhbUkPspr02HMw1Gmb7zxAXgXrjAReSBBbVU=s600-no"
+    },  
+]
+export default Wdata;
